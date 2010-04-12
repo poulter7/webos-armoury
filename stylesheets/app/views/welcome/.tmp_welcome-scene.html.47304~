@@ -1,0 +1,28 @@
+<!-- TODO: replace the contents of this file with your own html -->
+<div id="main" class="palm-hasheader">
+	<div class="palm-header">Character (level)</div>
+	<div id="left-column" class="gear-column">
+		<div id="helm" class="icon"></div>
+		<div id="neck" class="icon"></div>
+		<div id="shoulder" class="icon"></div>
+		<div id="cape" class="icon"></div>
+		<div id="chest" class="icon"></div>
+		<div id="shirt" class="icon"></div>
+		<div id="tabard" class="icon"></div>
+		<div id="bracer" class="icon"></div>
+	</div>
+	<div id="central-column" class="info-column">&nbsp;</div>
+	<div id="right-column" class="gear-column">
+		<div id="glove" class="icon"></div>
+		<div id="belt" class="icon"></div>
+		<div id="leg" class="icon"></div>
+		<div id="boot" class="icon"></div>
+		<div id="ring1" class="icon"></div>
+		<div id="ring2" class="icon"></div>
+		<div id="trinket1" class="icon"></div>
+		<div id="trinket2" class="icon"></div>
+	</div>
+	
+	<div id="menu" name="Menu" x-mojo-element="Menu"></div>
+	
+</div>
