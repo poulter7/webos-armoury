@@ -1,10 +1,6 @@
 {
 	"id": "com.poulter.wow",
-<<<<<<< HEAD:appinfo.json
 	"version": "0.0.2",
-=======
-	"version": "0.0.1",
->>>>>>> 84728fae3e2db0adca57ac4161050576ba4b395e:appinfo.json
 	"vendor": "My Company",
 	"type": "web",
 	"main": "index.html",
