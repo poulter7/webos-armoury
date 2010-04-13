@@ -1,0 +1,25 @@
+/* 320 x 480 
+ * 28 px is status bar
+ * leaving 458
+ * 50 is header
+ * leaving 408
+ */
+
+/*
+#main-body{t}
+*/
+/* main columns*/
+.central-column {height:300px; width:220px; float: left; }
+.gear-column {height: 350px; width: 50px; background-color: #a020f0; text-align: center; }
+.gear-column#left-column{float: left; }
+.gear-column#right-column{float:right; }
+
+
+#profile-column{background-color: #a020f0;}
+#model-column, #error-column{background-color:#00ff00; display: none; }
+.gear-row {padding-left:37px; float:left; height: 50px; width: 183px; background-color:#ff0000}
+
+/* Gear column icons */
+.gear-column .icon, .gear-row .icon{height: 40px; width: 40px; display:block; }
+.gear-column .icon {margin: 5px auto;}
+.gear-row .icon {margin: 5px; float: left;}

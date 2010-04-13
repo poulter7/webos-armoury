@@ -1,0 +1,9 @@
+{
+	"id": "com.poulter.wow",
+	"version": "0.0.2",
+	"vendor": "My Company",
+	"type": "web",
+	"main": "index.html",
+	"title": "WoW Armoury",
+	"icon": "icon.png"
+}
